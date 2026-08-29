@@ -1,0 +1,16 @@
+section {
+    height: 1500vh;
+}
+#hai {
+    background-color: rgb(197, 197, 207);
+}
+#jayjo {
+    background-color: black;
+}
+#hannam {
+    background-color: crimson;
+}
+#vinny {
+    background-color: fuchsia;
+    font-size: 16px;
+}
