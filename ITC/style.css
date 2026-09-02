@@ -1,16 +1,24 @@
 section {
     height: 1500vh;
 }
-#hai {
-    background-color: rgb(197, 197, 207);
-}
 #jayjo {
-    background-color: black;
+    font-size: 40px;
 }
 #hannam {
-    background-color: crimson;
+    font-size: 40px;
 }
-#vinny {
-    background-color: fuchsia;
-    font-size: 16px;
+#wooin {
+    font-size: 40px;
+}
+#poel {
+    font-size: 40px;
+}
+nav {
+    font-size: 40px;
+}
+ol {
+    font-size: 40px;
+}
+h1 {
+    font-size: 50px;
 }
